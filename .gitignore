@@ -1,0 +1,20 @@
+# project output folders
+bin/
+bin-int/
+
+# visual studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ini
+
+# make files
+Makefile
+
+# visual studip code files
+.vscode
+
+# config files
+settings.cfg
